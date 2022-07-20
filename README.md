@@ -1,7 +1,7 @@
 # Project4_Characters
 TEAM MEMBERS
-Chedeline Viljean 
-Joan Renfroe
+* Chedeline Viljean 
+* Joan Renfroe
 
 Welcome to "our project(INSERT NAME)". This is a simple game where the user is able to create a character, obtain tamagotchis, gain skills and increase their level. The users is also able to login to access their characters.
 
